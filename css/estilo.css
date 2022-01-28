@@ -1,0 +1,109 @@
+html,body{
+    margin: 0;
+    padding: 0;
+   
+}
+header {
+    width: 100%;
+    height: 120px;
+    background-color: #41c3c4;
+    position:relative;
+
+}
+
+header .container {
+
+}
+
+header #Banner{
+    position: relative;
+    left: auto;
+  
+}
+
+section .container{
+    width: 50%;
+    margin:0%;
+}
+
+section {
+    width: 100%;
+    margin-top: 5%;
+    margin-left: auto;
+    height: 357px;
+
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0%;
+    padding-right: 13%;
+    box-sizing: border-box;
+
+}
+
+#button {
+    margin-top: 0%;
+}
+
+#btn_1{
+    width: 200px;
+    border:#41c3c4;
+    margin-top: 23px; 
+
+    margin-left: auto;
+
+}
+
+#btn_2{
+    width: 200px;
+    border: #41c3c4;
+    margin-top: 23px; 
+    margin-left: auto;
+}
+
+#btn_3{
+    width: 200px;
+    border: #41c3c4;
+    margin-top: 23px; 
+    margin-left: auto;
+}
+#espaco_2{
+    width: 200px;
+    margin-top: 23px; 
+    margin-left: auto;
+}
+
+
+#btn_4{
+    width: 200px;
+    border:#41c3c4;
+    margin-top: 23px; 
+    margin-left: auto;
+}
+
+#btn_5{
+    width: 200px;
+    border: #41c3c4;
+    margin-top: 23px; 
+    margin-left: auto;
+}
+#btn_6{
+
+    width: 200px;
+    border:#41c3c4;
+    margin-top: 23px; 
+    margin-left: auto;
+
+}
+#espaco_2{
+    width: 200px;
+    border: #41c3c4;
+    margin-top: 23px; 
+    margin-left: auto;
+}
+
+section #anima{
+    margin-right: 0%;
+}
